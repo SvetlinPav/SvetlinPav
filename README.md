@@ -1,4 +1,4 @@
-## **Hi there my name is Svetlin Pavlov - Front End Developer 👋**
+## *Hi there my name is Svetlin Pavlov - Front End Developer 👋*
 
 ## **Projects:**<br/>
 ## HydraseWear: &nbsp; ![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=lightgreen&url=https%3A%2F%2Fhydrase-wear.herokuapp.com%2F)<br/>
