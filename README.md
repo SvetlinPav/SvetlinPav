@@ -1,9 +1,9 @@
 ### Hi there my name is Svetlin Pavlov - Front End Developer 👋
 
-***Projects:***<br>
-***HydraseWear:***<br> &nbsp; ![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=lightgreen&url=https%3A%2F%2Fhydrase-wear.herokuapp.com%2F)
-***HyChatty:***<br> &nbsp;![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=lightgreen&url=https%3A%2F%2Fhychatty.web.app)
-***HyFlix:***<br> &nbsp;![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=lightgreen&url=https%3A%2F%2Fhyflix-f36d7.web.app%2F)
+***Projects:***<br/>
+***HydraseWear:***<br/> &nbsp; ![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=lightgreen&url=https%3A%2F%2Fhydrase-wear.herokuapp.com%2F)
+***HyChatty:***<br/> &nbsp;![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=lightgreen&url=https%3A%2F%2Fhychatty.web.app)
+***HyFlix:***<br/> &nbsp;![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=lightgreen&url=https%3A%2F%2Fhyflix-f36d7.web.app%2F)
 
 ***As you can tell i like this Hy thing not sure why.***
 
