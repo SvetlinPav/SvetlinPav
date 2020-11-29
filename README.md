@@ -1,7 +1,7 @@
 ### Hi there my name is Svetlin Pavlov - Front End Developer 👋
 
 ***Projects:***<br/>
-###HydraseWear:### &nbsp; ![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=lightgreen&url=https%3A%2F%2Fhydrase-wear.herokuapp.com%2F)<br/>
+<span style="font-size:larger;">HydraseWear:</span> &nbsp; ![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=lightgreen&url=https%3A%2F%2Fhydrase-wear.herokuapp.com%2F)<br/>
 ***HyChatty:*** &nbsp;![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=lightgreen&url=https%3A%2F%2Fhychatty.web.app)<br/>
 ***HyFlix:*** &nbsp;![Website](https://img.shields.io/website?down_color=red&down_message=down&style=for-the-badge&up_color=lightgreen&url=https%3A%2F%2Fhyflix-f36d7.web.app%2F)<br/>
 
