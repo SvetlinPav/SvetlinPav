@@ -1,4 +1,4 @@
-# *Hi there my name is Svetlin Pavlov - Front End Developer 👋*
+# *Hi there my name is Svetlin Pavlov - Front End Developer <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />*
 
 # *[Portfolio Website](https://svetlinpav.github.io/svetlinpavlov-portfolio/)* ⭐
 
