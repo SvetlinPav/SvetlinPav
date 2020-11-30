@@ -1,6 +1,6 @@
 # *Hi there my name is Svetlin Pavlov - Front End Developer 👋*
 
-# *[Portfolio Website](https://svetlinpav.github.io/svetlinpavlov-portfolio/)*
+# *[Portfolio Website](https://svetlinpav.github.io/svetlinpavlov-portfolio/)* ⭐
 
 ## Projects:<br/>
 # *[HydraseWear](https://hydrase-wear.herokuapp.com/)* - *In a sleep state click to wake it up.*<br/>
